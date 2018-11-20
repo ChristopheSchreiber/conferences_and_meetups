@@ -35,3 +35,7 @@ Serverless & JVM: cold start (environ 1s à chaque appel de la Lambda), mais per
 Ne gère que Maven, pas Gradle. Java n'est qu'en preview.
 
 Il faut créer un fat jar et plusieurs fichiers de conf (host.json, local.settings.json, build.gradle). Il faut dans le répertoire de resources un répertoire correspondant au nom de la fonction.
+
+### Autre
+- Kotlin fonctionne avec Docker (Ktor, Spring Boot...)
+- Peut tourner sur iOs grâce à Kotlin Native
