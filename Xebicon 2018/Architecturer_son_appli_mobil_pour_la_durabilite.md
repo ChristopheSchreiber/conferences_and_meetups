@@ -1,7 +1,9 @@
 # Architecturer son application mobile pour la durabilité
 
 ## Abstract
-TODO
+Vous avez l’impression que vous devez jeter la moitié de votre code tous les 6 mois ? Plus le temps passe, moins votre application mobile est maintenable ?
+
+Injection de dépendances, routage ou gestion des environnements, venez découvrir nos conseils pour vous aider à réaliser des applications mobiles évolutives conçues pour durer dans le temps.
 
 ## Speaker
 Jean-Christophe Pastant
